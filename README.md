@@ -1,4 +1,4 @@
-# Quasar App (tododevdos)
+# Quasar App (tododev)
 
 A Quasar Framework app
 
